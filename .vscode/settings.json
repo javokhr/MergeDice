@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Merge Dice.sln"
+    "dotnet.defaultSolution": "MergeDice.sln"
 }
