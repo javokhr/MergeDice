@@ -60,7 +60,7 @@ namespace Ilumisoft.MergeDice
         {
             if (show)
             {
-                highscoreText.text = $"BEST\n{Highscore.Value}";
+                highscoreText.text = $"{Highscore.Value}";
 
             }
             else
